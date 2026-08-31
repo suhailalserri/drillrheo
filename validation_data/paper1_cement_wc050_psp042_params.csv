@@ -1,0 +1,18 @@
+# Wisniowski et al., Energies 2020, 13, 3192, DOI: 10.3390/en13123192, Table 3/4 (params), Table 5/6 (R->r2) -- fluid: cement_wc050_psp042
+model,param_name,param_value,unit,r2
+Newtonian,eta,0.1246,Pa.s,0.9907
+Bingham,PV,0.1215,Pa.s,0.99279
+Bingham,YP,1.9507,Pa,0.99279
+PowerLaw,K,0.3931,Pa.s^n,0.96062
+PowerLaw,n,0.8012,-,0.96062
+Casson,eta_cas,0.1159,Pa.s,0.99433
+Casson,tau0,0.1668,Pa,0.99433
+HerschelBulkley,K,0.2925,Pa.s^n,0.99748
+HerschelBulkley,n,0.8718,-,0.99748
+HerschelBulkley,tau0,0.144,Pa,0.99748
+VomBerg,tau0,0.0165,Pa,0.99912
+VomBerg,D,96.9329,Pa,0.99912
+VomBerg,C,643.4336,1/s,0.99912
+HahnEyring,E,0.1146,Pa.s,0.99385
+HahnEyring,D,0.9401,Pa,0.99385
+HahnEyring,C,1.0184,1/s,0.99385

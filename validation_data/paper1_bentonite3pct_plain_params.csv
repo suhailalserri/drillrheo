@@ -1,0 +1,18 @@
+# Wisniowski et al., Energies 2020, 13, 3192, DOI: 10.3390/en13123192, Table 3/4 (params), Table 5/6 (R->r2) -- fluid: bentonite3pct_plain
+model,param_name,param_value,unit,r2
+Newtonian,eta,0.0159,Pa.s,0.60443
+Bingham,PV,0.0119,Pa.s,0.98157
+Bingham,YP,2.5903,Pa,0.98157
+PowerLaw,K,1.3046,Pa.s^n,0.85354
+PowerLaw,n,0.2959,-,0.85354
+Casson,eta_cas,0.0057,Pa.s,0.9911
+Casson,tau0,1.7405,Pa,0.9911
+HerschelBulkley,K,0.1682,Pa.s^n,0.97994
+HerschelBulkley,n,0.6217,-,0.97994
+HerschelBulkley,tau0,1.3479,Pa,0.97994
+VomBerg,tau0,0.4649,Pa,0.78213
+VomBerg,D,1.8184,Pa,0.78213
+VomBerg,C,9.2868,1/s,0.78213
+HahnEyring,E,0.0086,Pa.s,0.97577
+HahnEyring,D,0.6916,Pa,0.97577
+HahnEyring,C,1.0548,1/s,0.97577
