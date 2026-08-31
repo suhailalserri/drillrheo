@@ -1,0 +1,10 @@
+# Anawe & Folayan, Data in Brief 21 (2018) 289-298, DOI: 10.1016/j.dib.2018.09.100, Table 1 -- bentonite-gel water-based mud at 200F
+rpm,dial_reading,shear_rate_1s,shear_stress_pa,shear_stress_lbf100ft2
+600,32,1021.8,16.352,32
+300,23,510.9,11.753,23
+200,19,340.6,9.709,19
+100,15,170.3,7.665,15
+60,10.5,102.18,5.3655,10.5
+30,7,51.09,3.577,7
+6,5,10.218,2.555,5
+3,3.5,5.109,1.7885,3.5

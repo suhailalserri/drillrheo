@@ -1,0 +1,14 @@
+# Wisniowski, Skrzypaszek & Toczek, Energies 2022, 15, 5583, DOI: 10.3390/en15155583, Table 8 -- Vom Berg / Hahn-Eyring ONLY (no Bingham/PL/HB ground truth published for this dataset)
+model,param_name,param_value,unit,r2
+VomBerg_pipe,tau0,17.55255355,Pa,
+VomBerg_pipe,D,18.10492882,Pa,
+VomBerg_pipe,C,348.66,1/s,
+HahnEyring_pipe,E,0.00732346,Pa.s,
+HahnEyring_pipe,D,10.83764167,Pa,
+HahnEyring_pipe,C,40.1643,1/s,
+VomBerg_annulus,tau0,13.2500378,Pa,
+VomBerg_annulus,D,4.59896869,Pa,
+VomBerg_annulus,C,86.08,1/s,
+HahnEyring_annulus,E,0.01590531,Pa.s,
+HahnEyring_annulus,D,1.776249,Pa,
+HahnEyring_annulus,C,0.02163,1/s,

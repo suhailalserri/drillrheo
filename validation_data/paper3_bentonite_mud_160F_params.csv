@@ -1,0 +1,9 @@
+# Anawe & Folayan, Data in Brief 21 (2018) 289-298, DOI: 10.1016/j.dib.2018.09.100, Table 3 (Bingham), Table 4 (PowerLaw), Table 6 (HerschelBulkley) -- 160F
+model,param_name,param_value,unit,r2
+Bingham,YP,9.198,Pa,
+Bingham,PV,0.00664,Pa.s,
+PowerLaw,n,0.505,-,
+PowerLaw,K,1.329,Pa.s^n,
+HerschelBulkley,tau0,2.555,Pa,0.9771
+HerschelBulkley,n,0.5831,-,0.9771
+HerschelBulkley,K,0.3263,Pa.s^n,0.9771

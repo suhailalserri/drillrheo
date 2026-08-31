@@ -1,0 +1,14 @@
+# Wisniowski, Skrzypaszek & Toczek, Energies 2022, 15, 5583, DOI: 10.3390/en15155583, Table 7 -- drilling mud, Fann 35A/SR-12, R1-B1, spring F1 (dial=51 at 180 RPM corrected from apparent source typo 52)
+rpm,dial_reading,shear_rate_1s,shear_stress_pa,shear_stress_lbf100ft2
+0.9,23,1.5327,11.753,23
+1.8,24,3.0654,12.264,24
+3,26,5.109,13.286,26
+6,28,10.218,14.308,28
+30,31,51.09,15.841,31
+60,35,102.18,17.885,35
+90,38,153.27,19.418,38
+100,45,170.3,22.995,45
+180,51,306.54,26.061,51
+200,65,340.6,33.215,65
+300,76,510.9,38.836,76
+600,98,1021.8,50.078,98
