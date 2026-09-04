@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use DrillRheo in your research, please cite it as below."
+type: software
+title: "DrillRheo: Automated Rheological Model Fitting and Selection for Drilling Fluids"
+version: 0.1.0
+authors:
+  - family-names: "Al-Serri"
+    given-names: "Suhail F. H."
+    orcid: "https://orcid.org/0000-0003-0841-5887"
+    affiliation: "Sana'a University, Department of Petroleum Engineering"
+repository-code: "https://github.com/vector-n/drillrheo"
+license: MIT
+keywords:
+  - drilling fluids
+  - rheology
+  - petroleum engineering
+  - Fann viscometer
+  - Herschel-Bulkley
+  - Bingham plastic
+  - open-source software
