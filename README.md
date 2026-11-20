@@ -14,13 +14,13 @@ Every drilling fluids lab produces Fann viscometer readings. Engineers then manu
 ## Installation
 
 ```bash
-pip install git+https://github.com/vector-n/drillrheo.git
+pip install git+https://github.com/suhailalserri/drillrheo.git
 ```
 
 Or clone and install locally:
 
 ```bash
-git clone https://github.com/vector-n/drillrheo.git
+git clone https://github.com/suhailalserri/drillrheo.git
 cd drillrheo
 pip install -e ".[dev]"
 ```

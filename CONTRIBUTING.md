@@ -4,7 +4,7 @@ Thanks for your interest in contributing.
 
 ## Reporting issues
 
-Please open a [GitHub issue](https://github.com/vector-n/drillrheo/issues) with:
+Please open a [GitHub issue](https://github.com/suhailalserri/drillrheo/issues) with:
 - A minimal example reproducing the problem (a small CSV + the command/code you ran)
 - What you expected vs. what happened
 - Your Python version and `drillrheo` version (`pip show drillrheo`)
@@ -30,7 +30,7 @@ Validation datasets live in `validation_data/` as paired files: `{name}.csv` (ra
 
 ## Getting support
 
-Open a [GitHub issue](https://github.com/vector-n/drillrheo/issues) for questions — there's no separate mailing list or chat channel at this time.
+Open a [GitHub issue](https://github.com/suhailalserri/drillrheo/issues) for questions — there's no separate mailing list or chat channel at this time.
 
 ## Code of conduct
 
